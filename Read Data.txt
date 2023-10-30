@@ -1,5 +1,0 @@
-#Read File CSV Github
-import pandas as pd
-url = 'https://github.com/h3nr7/NbaData2015-2016/raw/master/nbasalaries.csv'
-df = pd.read_csv(url)
-df
